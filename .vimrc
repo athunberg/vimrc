@@ -27,3 +27,5 @@ augroup filetypedetect
 augroup END
  
 :set bs=2 "fix backspace on some consoles
+
+:set nobackup
